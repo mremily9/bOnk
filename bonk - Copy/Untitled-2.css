@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+
+body {
+    margin:20px 20px 20px 50px;
+    background-color: #fff5f0;
+    width: 1000px;
+    font-family:Dongle;
+    color: cadetblue;
+}
+
+h2 {
+    font-size: 48px;
+    font-family:Dongle;
+    margin-left: 10%;
+    color: cadetblue;
+}
+img {
+    display: flex;
+    justify-content: center;
+    width: 300px;
+}
+h1 {
+    margin-left: 50px;
+}
+
+a {
+    color: cadetblue;
+    transition-duration: 0.3s;
+}
+
+a:hover {
+    color: rgb(81, 43, 131);
+}
