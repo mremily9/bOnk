@@ -1,3 +1,3 @@
 # bOnk
 
-a little google chrome extenstion i had that lets u bonk! with a counter 
+a little google chrome extenstion i made that lets u bonk! with a counter 
